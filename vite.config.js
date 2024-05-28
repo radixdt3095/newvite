@@ -4,5 +4,5 @@ import react from '@vitejs/plugin-react';
 
 export default defineConfig({
   plugins: [react()],
-  base: '/newvite.github.io/', 
+  base: '/radixdt3095.github.io/', 
 });
